@@ -41,5 +41,22 @@ axios.get(url)
     console.error(error);
   });
 ```
+# PHP
+```
+<?php
+$text_here = "السلام عليكم";
+$lang_here = "en";
 
+$url = 'https://API.englishboy.repl.co/translate?text='.urlencode($text_here).'&to='.urlencode($lang_here);
+
+$response = file_get_contents($url);
+$result = json_decode($response, true);
+
+if ($result !== false) {
+    echo $result['text'];
+} else {
+    echo 'Request failed';
+}
+?>
+```
 **If you have any questions contact me on Discord: Rian1545#0371**
