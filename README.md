@@ -59,4 +59,4 @@ if ($result !== false) {
 }
 ?>
 ```
-**If you have any questions contact me on Discord: imacoolhuman**
+**If you have any questions contact me on Discord: rayan1545**
