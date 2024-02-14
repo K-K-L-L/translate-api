@@ -1,5 +1,8 @@
-# translate-wrapper
-### A wrapper for Google Translate
+# ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Deprecated ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)
+
+
+### translate-wrapper
+#### A wrapper for Google Translate
 
 # Python
 ```
